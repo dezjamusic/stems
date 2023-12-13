@@ -6,7 +6,7 @@ The song is licensed under a Creative Commons License and is available here: [de
 Below are all the stems that I used as MIDI tracks in the song. Licence: [CC BY-NC](https://creativecommons.org/licenses/by/4.0/deed.de)
 
 ### Stem 01
-[Spitfire Audio LABS] Foghorn: VT - Nightfrost
+[Spitfire Audio LABS] Foghorn: VT - Nightfrost  
 airwindows Autopan
 
 ### Stem 02
@@ -22,12 +22,12 @@ airwindows Autopan
 [Spitfire Audio LABS] Soft Piano: Soft Piano
 
 ### Stem06
-[Spitfire Audio LABS] Vintage Drums: 1975 Kit
-Baby Audio: Magic Dice
-TDR Nova
-airwindows Average
-airwindows Density
-airwindows Distance2
+[Spitfire Audio LABS] Vintage Drums: 1975 Kit  
+Baby Audio: Magic Dice  
+TDR Nova  
+airwindows Average  
+airwindows Density  
+airwindows Distance2  
 
 ### Stem07
 Gaelic Voices: Wavering
